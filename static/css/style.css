@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=KoHo&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Girassol&display=swap");
+
+body {
+  background: url("https://images.pexels.com/photos/132657/pexels-photo-132657.jpeg?cs=srgb&dl=pexels-mike-132657.jpg&fm=jpg")
+    no-repeat;
+  text-align: center;
+  font-family: "KoHo", sans-serif;
+  color: #2ecc71;
+}
+h1 {
+  color: #2ecc71;
+  font-size: 7vw;
+  font-family: "Girassol", cursive;
+  text-align: center;
+}
+
+.navbar {
+  background-color: transparent;
+}
+
+a {
+  color: #f1f9f9;
+}
+
+a:hover {
+  color: #f0f0f0;
+}
+
+.card {
+  /* border: 2px solid red; */
+  padding: 10px;
+  border-radius: 50px 20px;
+  border-color: #2ecc71;
+  border-width: 2px;
+}
